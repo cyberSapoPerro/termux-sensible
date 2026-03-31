@@ -12,14 +12,10 @@ This script automate Termux setup.
 
 ## Quick Start
 
-```bash
-bash run.sh
-```
-
-Or clone and run:
+Clone and run:
 
 ```bash
-git clone https://github.com/yourusername/termux_sensible.git
+git clone https://github.com/cyberSapoPerro/termux-sensible.git
 cd termux_sensible
 bash run.sh
 ```
